@@ -54,3 +54,4 @@ The menu has 5 options:
 
 ### Tip:
 - Think of all things you need to complete this project, use paper and pencil to plan your system design.
+- Don't forget to install and use Rubocop writing `rubocop` in the command line.
